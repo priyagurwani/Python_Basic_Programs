@@ -1,6 +1,7 @@
 # Perfect Number whose addition of factors are equal as number:
 # Eg: 6=[1,2,3] =  3+2+1 = 6 = Perfect Number
 # Eg: 10=[1,2,5] = 1+2+5 = 8 = Not Perfect Number
+
 # Using Iteration
 n=int(input("Enter n: "))
 sum=0
